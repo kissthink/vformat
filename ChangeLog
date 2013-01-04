@@ -1,2 +1,17 @@
 vformat ChangeLog
 ========================================================================
+
+* Ensure UTC transformation, 2010-04-15 = 3.0.6 @gelli
+* Add support for URLs, 2010-02-23 = 3.0.5 @steyner
+* TZID fixes, 2009-07-09, = 3.0.4 @thekid
+* QA-Release 2009-06-07 = 3.0.3 @thekid
+* Performance improvements, 2007-12-16 =  3.0.2 @kiesel
+* Bugfix release: TITLE 2007-12-09 =  3.0.1 @thekid
+* Export fixes, 2007-02-12 = 3.0.1, @SirCasm
+* 2007-02-01, Timezone support, CANCEL method categories, attendees revamp = 3.0.0 @SirCasm
+* PHP 5 migration = 2.0.0 @kiesel 
+* QA-Release 2006-07-11 = 1.1.3 @thekid
+* Remove debug code 2003-09-14 = 1.1.2 @thekid
+* QA-Release 2003-06-22 = 1.1.1 @kiesel
+* 2003-04-27, export API = 1.1.0 @kiesel
+* Initial release 2003-02-23 = 1.0.0 @thekid
